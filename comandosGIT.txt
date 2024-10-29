@@ -6,3 +6,13 @@ Los comandos más comunes de la parte local son:
 3. git commit -m "Mensaje"
 4. git branch 
 5. git checkout
+
+Los comandos más comunes en la parte remota son:
+1. git clone URL
+2.git remote add nombre URL
+3.git fetch nombre
+4.git pull
+5.git push origin
+6.git remote show[nombre remoto]
+7.git remote rm
+8.git remote rename nombre_actual nombre_nuevo
